@@ -1,0 +1,8 @@
+com.example.p3.app-pngs-0 E:\Code\Android Studio\P3\app\build\generated\res\pngs\debug
+com.example.p3.app-updated_navigation_xml-1 E:\Code\Android Studio\P3\app\build\generated\updated_navigation_xml\debug
+com.example.p3.app-packageDebugResources-2 E:\Code\Android Studio\P3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.p3.app-packageDebugResources-3 E:\Code\Android Studio\P3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.p3.app-debug-4 E:\Code\Android Studio\P3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.p3.app-debug-5 E:\Code\Android Studio\P3\app\src\debug\res
+com.example.p3.app-main-6 E:\Code\Android Studio\P3\app\src\main\res
+gradleHome-0 C:\Users\User\.gradle
